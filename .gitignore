@@ -25,7 +25,7 @@ IoT_Room_Automation.X/nbproject/Makefile-genesis.properties
 *.i
 
 # ---- Proteus ----
-*.pdsbak
+# The .pdsbak is kept: it is the only copy of the circuit in this repo.
 *.pdsprj.*.workspace.xml
 
 # ---- LaTeX build output ----
