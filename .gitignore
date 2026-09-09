@@ -1,0 +1,49 @@
+# ---- Secrets ----
+# WiFi credentials and Adafruit IO key live here. Copy secrets_example.h
+# to secrets.h and fill in your own values. Never commit secrets.h.
+secrets.h
+NodeMCU Arduino Code/Room_Automation/secrets.h
+
+# ---- Oversized binaries (exceed GitHub's 100 MB per-file limit) ----
+*.rar
+*.zip
+*.7z
+Project Demo/
+
+# ---- MPLAB X build output ----
+IoT_Room_Automation.X/build/
+IoT_Room_Automation.X/dist/
+IoT_Room_Automation.X/nbproject/private/
+IoT_Room_Automation.X/nbproject/Makefile-genesis.properties
+*.o
+*.p1
+*.d
+*.sdb
+*.elf
+*.map
+*.lst
+*.i
+
+# ---- Proteus ----
+*.pdsbak
+*.pdsprj.*.workspace.xml
+
+# ---- LaTeX build output ----
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+*.bak
+
+# ---- Arduino ----
+*.bts*
+
+# ---- OS ----
+Thumbs.db
+desktop.ini
+.DS_Store
