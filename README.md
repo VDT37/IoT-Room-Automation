@@ -47,7 +47,7 @@ IoT_Room_Automation.X/        MPLAB X project: PIC16F887 firmware
 NodeMCU Arduino Code/
   Room_Automation/            The ESP8266 sketch and its secrets header
   Adafruit_MQTT*              Vendored Adafruit MQTT library and examples
-Proteus Simulation/           Proteus circuit simulation of the PIC subsystem
+Proteus Simulation/           Proteus circuit backup (.pdsbak) of the PIC subsystem
 Report/                       LaTeX source, figures and compiled project report
 Home Automation IEEE Papers/  Reference papers surveyed during the literature review
 Project Test Cases.xlsx       Test matrix used for verification
