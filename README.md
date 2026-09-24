@@ -78,6 +78,3 @@ On Adafruit IO, create two feeds named exactly `Room Light` and `Cooling System`
 - MQTT runs on port 1883 without TLS, which is acceptable for a lab prototype but not for deployment.
 - Bluetooth and WiFi modes are selected by hardware switches and are not intended to be used at the same time.
 
-## Media not in this repository
-
-The project demo video and the packaged `.rar` archive of the full working directory exceed GitHub's 100 MB per-file limit and are excluded by `.gitignore`.
